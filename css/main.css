@@ -1,1 +1,8 @@
-@import '../fonts/iranyekanwebbold.ttf'
+@font-face {
+    font-family: yekan;
+    src: url('../fonts/iranyekanwebbold.ttf');
+}
+
+* {
+    font-family: yekan;
+}
